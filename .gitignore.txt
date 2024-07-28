@@ -1,2 +1,2 @@
-secrets
-stry1
+secrets.txt
+stry1.txt
